@@ -1,0 +1,649 @@
+{ kkoo: { kook } }
+{ bde: { bed, deb } }
+{ abst: { bats, stab } }
+{ eenv: { even, neve } }
+{ bdo: { bod, dob } }
+{ eent: { eten, nete } }
+{ eenr: { neer, reen } }
+{ eenp: { neep, peen } }
+{ bdi: { bid, dib } }
+{ bboo: { boob } }
+{ bdu: { bud, dub } }
+{ dopr: { dorp, prod } }
+{ hmo: { mho, ohm } }
+{ abbco: { bobac, cabob } }
+{ aemnr: { namer, reman } }
+{ opst: { pots, spot, stop, tops } }
+{ alrsu: { larus, sural }, eemt: { meet, teem } }
+{ opsw: { pows, swop } }
+{ eems: { emes, seme } }
+{ dim: { dim, mid } }
+{ din: { din, nid } }
+{ boy: { boy, yob } }
+{ eeflrt: { reflet, telfer } }
+{ bos: { bos, sob } }
+{ bor: { bor, bro, orb, rob } }
+{ los: { los, sol } }
+{ lmoos: { mools, sloom } }
+{ eelt: { leet, teel } }
+{ dit: { dit, tid } }
+{ eelp: { leep, peel } }
+{ dis: { dis, sid }, eelr: { leer, reel }, ipst: { spit, tips } }
+{ eels: { eels, lees, seel, slee } }
+{ adil: { dial, laid }, eess: { esse, sees } }
+{ dho: { doh, hod } }
+{ loot: { loot, tool } }
+{ bnu: { bun, nub }, iss: { sis } }
+{ loop: { loop, pool } }
+{ dorw: { drow, word }, ist: { sit, tis } }
+{ loos: { loos, sool } }
+{ a: { a } }
+{ b: { b } }
+{ c: { c } }
+{ bio: { ibo, obi }, d: { d } }
+{ bin: { bin, nib }, e: { e } }
+{ f: { f } }
+{ g: { g } }
+{ h: { h } }
+{ i: { i } }
+{ adiv: { avid, diva }, j: { j } }
+{ k: { k } }
+{ enst: { nets, sten }, l: { l } }
+{ m: { m } }
+{ n: { n } }
+{ o: { o } }
+{ p: { p } }
+{ eers: { rees, seer }, q: { q } }
+{ r: { r } }
+{ s: { s } }
+{ t: { t } }
+{ acepr: { pacer, recap }, eflorw: { reflow, wolfer }, u: { u } }
+{ v: { v } }
+{ w: { w } }
+{ bis: { bis, sib }, x: { x } }
+{ ipp: { pip }, y: { y } }
+{ ips: { pis, sip }, z: { z } }
+{ ipt: { pit, tip } }
+{ bit: { bit, tib } }
+{ bho: { boh, hob } }
+{ anno: { anon, nona } }
+{ oww: { wow } }
+{ for: { fro, orf } }
+{ ahhs: { hahs, shah }, deersst: { dessert, tressed } }
+{ bsu: { bus, sub } }
+{ ados: { ados, soda } }
+{ adop: { apod, dopa } }
+{ eepp: { peep } }
+{ eeps: { pees, seep } }
+{ anov: { avon, nova } }
+{ ivv: { viv } }
+{ aorss: { saros, soras } }
+{ nnoo: { noon } }
+{ bru: { bur, rub } }
+{ moost: { smoot, tooms } }
+{ adlu: { dual, laud } }
+{ aabb: { abba } }
+{ aabc: { abac, caba } }
+{ elux: { exul, luxe } }
+{ adeipr: { diaper, repaid } }
+{ eentt: { tenet } }
+{ ddee: { deed } }
+{ aabs: { abas, saba } }
+{ fglo: { flog, golf } }
+{ aaoorrttv: { rotavator } }
+{ ort: { rot, tor } }
+{ ddei: { deid, died } }
+{ moops: { moops, spoom } }
+{ gnsu: { gnus, guns, snug, sung }, iprsst: { spirts, sprits, stirps, strips } }
+{ aahhnn: { hannah } }
+{ lmoo: { loom, mool } }
+{ bertu: { rebut, tuber } }
+{ itt: { tit } }
+{ itw: { tiw, wit } }
+{ efirs: { fires, serif } }
+{ egor: { ergo, ogre } }
+{ osy: { soy, yos } }
+{ enorss: { serons, snores } }
+{ osw: { sow, wos } }
+{ oss: { sos } }
+{ abtu: { abut, tuba } }
+{ adeil: { ailed, delia } }
+{ psu: { pus, sup } }
+{ otw: { tow, wot } }
+{ ott: { tot } }
+{ eennrt: { rennet, tenner } }
+{ adeir: { aider, redia } }
+{ epst: { pets, step } }
+{ eimr: { emir, rime } }
+{ aags: { agas, saga } }
+{ aagr: { agar, raga }, eimt: { emit, time } }
+{ mnotu: { muton, notum } }
+{ adhs: { dahs, shad } }
+{ dpu: { dup, pud } }
+{ nos: { nos, son } }
+{ bersu: { rebus, suber }, nor: { nor, ron } }
+{ eekls: { keels, sleek } }
+{ not: { not, ton } }
+{ now: { now, won } }
+{ noy: { noy, yon } }
+{ eiln: { lien, neil } }
+{ eilr: { leir, riel } }
+{ eils: { lies, seil } }
+{ eilv: { evil, live } }
+{ orstw: { strow, worts } }
+{ aakkn: { kanak } }
+{ eloort: { looter, retool }, nno: { non } }
+{ nnu: { nun } }
+{ aakky: { kayak } }
+{ aagns: { nagas, sagan }, aakkz: { kazak }, dloor: { drool, loord } }
+{ eensv: { neves, seven } }
+{ eenss: { esnes, sense } }
+{ ppu: { pup } }
+{ eelsst: { sleets, steels } }
+{ eelpr: { leper, repel } }
+{ eelps: { leeps, peels, sleep, speel } }
+{ deeils: { elides, sedile } }
+{ sssuu: { susus } }
+{ arst: { rats, star } }
+{ aahlln: { hallan, nallah } }
+{ eegir: { eiger, regie } }
+{ eenrs: { reens, sneer } }
+{ ademn: { deman, named } }
+{ opw: { pow, wop } }
+{ deorrt: { dorter, retrod } }
+{ opt: { pot, top } }
+{ eoprt: { repot, toper }, ops: { pos, sop } }
+{ eelstu: { elutes, setule } }
+{ opp: { pop } }
+{ aaann: { anana } }
+{ dirst: { dirts, strid } }
+{ iimmn: { minim } }
+{ anpss: { snaps, spans } }
+{ oowwww: { wowwow } }
+{ eerssv: { serves, sevres } }
+{ dnos: { dons, snod } }
+{ effor: { offer, reffo } }
+{ aakr: { arak, kara } }
+{ aahhww: { hawhaw, wahwah } }
+{ nstu: { nuts, stun } }
+{ bdir: { bird, drib } }
+{ acdel: { decal, laced } }
+{ adesv: { devas, saved }, esstt: { stets } }
+{ aajr: { ajar, raja } }
+{ goprs: { gorps, sprog } }
+{ puy: { puy, yup } }
+{ adrw: { draw, ward } }
+{ adrt: { dart, trad } }
+{ loopss: { sloops, spools } }
+{ adry: { dray, yard } }
+{ aeepprr: { repaper }, ptu: { put, tup } }
+{ btu: { but, tub } }
+{ deeglr: { gelder, redleg } }
+{ adsw: { daws, swad } }
+{ crsu: { rucs, scur } }
+{ aaikk: { kaiak } }
+{ adrst: { darts, strad }, aprs: { raps, spar } }
+{ bdru: { burd, drub } }
+{ inrst: { snirt, trins } }
+{ adrsw: { draws, sward } }
+{ aprt: { part, prat, tarp, trap } }
+{ eelst: { leets, sleet, steel, teels } }
+{ noopss: { snoops, spoons } }
+{ aesst: { asset, tessa }, deefiir: { deifier, reified } }
+{ aesss: { asses, sessa }, rssttu: { struts, sturts } }
+{ ceirs: { cires, seric } }
+{ apss: { saps, spas } }
+{ tuu: { utu } }
+{ apsw: { paws, swap } }
+{ apst: { pats, spat, stap, taps } }
+{ eelrv: { lever, revel } }
+{ admno: { damon, nomad } }
+{ apsy: { spay, yaps }, eilnsv: { levins, snivel } }
+{ osstw: { stows, swots } }
+{ eelrs: { reels, sleer } }
+{ bloo: { lobo, obol } }
+{ osstt: { stots } }
+{ aann: { anan, anna, naan, nana }, deeins: { denies, seined } }
+{ deeinr: { denier, reined } }
+{ amoss: { samos, somas } }
+{ hss: { shs } }
+{ ggoo: { goog } }
+{ ttu: { tut } }
+{ aailmn: { animal, lamina } }
+{ deinos: { edison, noside } }
+{ aamm: { maam } }
+{ acmrs: { marcs, scram } }
+{ aainr: { arian, naira } }
+{ deinns: { dennis, sinned } }
+{ agnsw: { gnaws, swang } }
+{ aams: { maas, saam } }
+{ agnst: { gnats, stang } }
+{ aalm: { alma, amla } }
+{ aaln: { alan, anal, lana, nala } }
+{ acmsu: { camus, sumac }, deopst: { depots, stoped } }
+{ cceors: { reccos, soccer } }
+{ glpu: { gulp, plug } }
+{ aab: { aba } }
+{ aad: { ada } }
+{ aag: { aga }, eimrt: { remit, timer } }
+{ aah: { aha } }
+{ aai: { aia } }
+{ aalv: { aval, lava } }
+{ aal: { ala } }
+{ aan: { ana } }
+{ aas: { asa } }
+{ aav: { ava } }
+{ aaw: { awa } }
+{ aelsst: { salets, stelas }, ostt: { stot, tots } }
+{ mstu: { smut, tums }, ostw: { stow, swot, tows, wots } }
+{ eegsu: { euges, segue } }
+{ eimst: { emits, stime } }
+{ aens: { anes, sena } }
+{ aenv: { evan, nave } }
+{ aent: { ante, etna, neat, taen } }
+{ dhos: { dohs, shod } }
+{ aemx: { amex, xema } }
+{ adiln: { ladin, nidal } }
+{ adilr: { drail, liard } }
+{ eessx: { sexes } }
+{ eessy: { sesey, yeses } }
+{ ilms: { mils, slim } }
+{ lssuu: { sulus } }
+{ ccee: { ecce } }
+{ gins: { gins, snig } }
+{ cep: { cep, pec } }
+{ aagss: { sagas } }
+{ aelr: { laer, real }, inor: { iron, nori } }
+{ aelt: { leat, tael } }
+{ eestv: { evets, steve } }
+{ pptuu: { putup } }
+{ hoop: { hoop, pooh } }
+{ hoos: { ohos, oohs, shoo, soho } }
+{ emsw: { smew, wems } }
+{ acde: { dace, ecad }, ilppsu: { pupils, slipup } }
+{ ael: { ale, ela } }
+{ aen: { ean, nae } }
+{ aet: { ate, eat, eta, tae } }
+{ aoorrtt: { rotator } }
+{ aev: { ave, eva } }
+{ enost: { notes, seton } }
+{ aer: { are, ear, era, rae } }
+{ aes: { eas, sae }, inpss: { snips, spins } }
+{ abb: { bab } }
+{ abg: { bag, gab } }
+{ aims: { amis, sima } }
+{ abd: { bad, dab }, aimr: { amir, rima } }
+{ abo: { abo, oba } }
+{ abn: { ban, nab } }
+{ abm: { bam, mab } }
+{ abr: { arb, bra } }
+{ enors: { rones, senor } }
+{ abt: { bat, tab } }
+{ girst: { girts, strig } }
+{ amos: { amos, soma } }
+{ ooprs: { roops, spoor } }
+{ ailr: { aril, lair, liar, lira, rail, rial }, ooprt: { poort, troop } }
+{ ails: { lias, sail } }
+{ doprs: { dorps, sprod } }
+{ dinor: { nidor, rodin } }
+{ acm: { cam, mac } }
+{ ahirrs: { harris, sirrah }, ahsy: { shay, yahs } }
+{ acnr: { cran, narc } }
+{ ilno: { lion, noil } }
+{ eek: { eke } }
+{ eel: { eel, lee } }
+{ eem: { eme } }
+{ cit: { cit, tic }, een: { een, ene, nee }, knot: { knot, tonk } }
+{ acrtt: { tcart, tract } }
+{ eer: { eer, ere, ree } }
+{ eev: { eve } }
+{ eew: { ewe } }
+{ eey: { eye }, ggi: { gig } }
+{ oprst: { ports, strop } }
+{ ggo: { gog }, loops: { loops, pools, sloop, spool } }
+{ eglos: { loges, segol } }
+{ apsst: { spats, staps } }
+{ bdetu: { debut, tubed } }
+{ deennst: { dennets, stenned } }
+{ aderrw: { drawer, redraw, reward, warder } }
+{ air: { air, ria } }
+{ aammrr: { marram } }
+{ bkno: { bonk, knob } }
+{ einnst: { sinnet, tennis } }
+{ ennost: { sonnet, tennos } }
+{ bknu: { bunk, knub } }
+{ afr: { far, raf } }
+{ cdo: { cod, doc } }
+{ agnr: { gnar, rang } }
+{ agnt: { gnat, tang } }
+{ agnw: { gnaw, wang } }
+{ agg: { gag } }
+{ agn: { gan, nag } }
+{ agl: { gal, lag } }
+{ agm: { gam, mag } }
+{ noop: { noop, poon } }
+{ agt: { gat, tag } }
+{ aett: { etat, tate }, agr: { gar, rag } }
+{ ags: { gas, sag } }
+{ amrst: { smart, trams }, deem: { deem, meed } }
+{ add: { dad } }
+{ adg: { dag, gad } }
+{ deep: { deep, peed } }
+{ deer: { deer, reed } }
+{ dees: { dees, seed } }
+{ adm: { dam, mad } }
+{ adl: { dal, lad }, moot: { moot, toom } }
+{ ado: { ado, oda }, eekrs: { reeks, skeer } }
+{ adh: { dah, had } }
+{ moor: { moor, room } }
+{ adw: { daw, wad } }
+{ aest: { etas, sate } }
+{ adp: { dap, pad } }
+{ ads: { das, sad } }
+{ deopt: { depot, toped } }
+{ aaklot: { atokal, lakota }, acms: { macs, scam } }
+{ acmr: { cram, marc } }
+{ amm: { mam } }
+{ aannruu: { nauruan }, amn: { man, nam }, asstw: { staws, swats } }
+{ hops: { pohs, shop } }
+{ anst: { nats, stan } }
+{ efn: { fen, nef }, eorrst: { retros, sorter } }
+{ aikns: { kisan, nasik } }
+{ deerssst: { desserts, stressed } }
+{ aers: { ares, sera }, amy: { may, yam } }
+{ aknr: { knar, rank } }
+{ eft: { fet, tef } }
+{ amt: { mat, tam } }
+{ loost: { loots, sloot, stool, tools } }
+{ amp: { map, pam }, eelpss: { sleeps, speels }, looss: { solos } }
+{ dorsw: { drows, sword }, noops: { noops, poons, snoop, spoon } }
+{ amr: { mar, ram } }
+{ ams: { mas, sam } }
+{ ikpss: { skips, spiks } }
+{ aprsst: { sparts, straps }, oopst: { poots, stoop } }
+{ efis: { fies, seif } }
+{ eors: { eros, sore } }
+{ cor: { cor, roc }, egl: { gel, leg } }
+{ cos: { cos, soc }, egm: { gem, meg } }
+{ nosw: { snow, wons } }
+{ egt: { get, teg }, nost: { snot, tons } }
+{ ajr: { jar, raj }, noost: { snoot, toons } }
+{ essy: { seys, syes } }
+{ ajt: { jat, taj } }
+{ akm: { kam, mak } }
+{ aaaallmmy: { malayalam } }
+{ gmu: { gum, mug } }
+{ inst: { snit, tins } }
+{ aky: { kay, yak } }
+{ deil: { deil, lied }, oorrt: { rotor } }
+{ dein: { dine, enid } }
+{ agmr: { gram, marg }, oprsst: { sports, strops } }
+{ ahh: { hah }, deilsv: { devils, slived } }
+{ ahj: { haj, jah } }
+{ ahl: { hal, lah } }
+{ bens: { bens, sneb } }
+{ deit: { edit, tide } }
+{ ahy: { hay, yah } }
+{ beett: { tebet } }
+{ cru: { cur, ruc } }
+{ agls: { gals, slag }, ahp: { hap, pah }, esuz: { suez, zeus } }
+{ defl: { delf, fled } }
+{ emw: { mew, wem } }
+{ ddeenn: { denned } }
+{ eeiisst: { seities } }
+{ got: { got, tog } }
+{ ccssuu: { succus } }
+{ aikss: { sakis, sikas } }
+{ estw: { stew, wets } }
+{ alry: { aryl, lyra } }
+{ bnsu: { buns, snub } }
+{ do: { do, od } }
+{ emrsu: { mures, serum } }
+{ di: { di, id } }
+{ aabln: { alban, nabla } }
+{ ann: { nan } }
+{ anps: { naps, pans, snap, span } }
+{ ceir: { cire, eric } }
+{ gil: { gil, lig } }
+{ ant: { nat, tan } }
+{ ans: { nas, san } }
+{ ennot: { nonet, tenon } }
+{ anp: { nap, pan } }
+{ bgru: { burg, grub } }
+{ bins: { bins, snib } }
+{ imm: { mim }, nru: { nur, run } }
+{ git: { git, tig } }
+{ dels: { dels, sled }, gip: { gip, pig } }
+{ demo: { edom, mode } }
+{ imr: { mir, rim } }
+{ ims: { mis, sim } }
+{ aot: { oat, tao } }
+{ gmsu: { gums, smug } }
+{ airst: { airts, stria }, alpp: { palp, plap }, bo: { bo, ob } }
+{ alps: { pals, slap } }
+{ alm: { lam, mal } }
+{ arstw: { straw, warts } }
+{ gopr: { gorp, prog } }
+{ gopu: { ogpu, upgo } }
+{ aa: { aa } }
+{ ab: { ab, ba } }
+{ ae: { ae, ea }, inps: { nips, pins, snip, spin } }
+{ ad: { ad, da } }
+{ almru: { larum, mural } }
+{ ah: { ah, ha } }
+{ alv: { lav, val } }
+{ am: { am, ma } }
+{ alp: { lap, pal } }
+{ als: { las, sal } }
+{ an: { an, na } }
+{ aadfr: { daraf, farad }, ddeerr: { redder } }
+{ agst: { gats, stag } }
+{ as: { as, sa }, ilst: { slit, tils } }
+{ ar: { ar, ra } }
+{ at: { at, ta } }
+{ arssu: { sarus, suras }, aw: { aw, wa } }
+{ ddeew: { dewed } }
+{ ntu: { nut, tun } }
+{ ho: { ho, oh } }
+{ enp: { nep, pen } }
+{ enw: { new, wen }, iprst: { spirt, trips } }
+{ ent: { net, ten } }
+{ ars: { ras, sar } }
+{ arw: { raw, war } }
+{ ilps: { pils, slip } }
+{ art: { rat, tar } }
+{ ary: { ayr, rya } }
+{ mmo: { mom } }
+{ oopp: { oppo, poop } }
+{ ahhss: { shahs } }
+{ oopr: { poor, roop } }
+{ guv: { guv, vug } }
+{ mmu: { mum }, oorst: { roots, stoor } }
+{ guy: { guy, yug } }
+{ gu: { gu, ug } }
+{ elm: { lem, mel } }
+{ asw: { saw, was } }
+{ ast: { sat, tas } }
+{ acnrs: { narcs, scran } }
+{ elz: { lez, zel } }
+{ addel: { dedal, laded } }
+{ els: { les, sel } }
+{ elt: { let, tel } }
+{ aist: { itas, sati } }
+{ app: { pap } }
+{ aps: { pas, sap } }
+{ aabrs: { arbas, sabra }, apr: { par, rap } }
+{ apt: { pat, tap } }
+{ apw: { paw, wap } }
+{ apy: { pay, yap } }
+{ ee: { ee } }
+{ int: { nit, tin } }
+{ ins: { nis, sin } }
+{ inp: { nip, pin } }
+{ em: { em, me } }
+{ airs: { rias, sair } }
+{ eo: { eo, oe } }
+{ en: { en, ne }, opsst: { spots, stops } }
+{ eh: { eh, he } }
+{ airt: { rait, tiar } }
+{ ekoss: { sekos, sokes } }
+{ er: { er, re } }
+{ dens: { dens, sned } }
+{ aknrs: { krans, snark } }
+{ ekn: { ken, nek }, enot: { eton, note } }
+{ enor: { oner, reno } }
+{ enos: { enos, sone } }
+{ iknst: { knits, stink }, iln: { lin, nil } }
+{ deor: { oder, redo } }
+{ bstu: { buts, stub }, oott: { otto, toot } }
+{ ilt: { lit, til } }
+{ ko: { ko, ok }, norst: { snort, trons } }
+{ ceps: { ceps, spec } }
+{ door: { door, rood } }
+{ adors: { doras, sarod }, aelps: { elaps, spale } }
+{ aswy: { sway, yaws } }
+{ eellm: { lemel } }
+{ aww: { waw }, iirs: { iris, siri } }
+{ eellv: { level } }
+{ awy: { way, yaw } }
+{ gru: { gur, rug }, iirrtt: { tirrit } }
+{ aerst: { resat, taser } }
+{ aknps: { knaps, spank } }
+{ iimss: { simis } }
+{ ehs: { ehs, she } }
+{ ehr: { her, reh } }
+{ att: { tat } }
+{ atw: { taw, wat } }
+{ acerss: { scares, seracs } }
+{ moo: { moo, oom } }
+{ aerrt: { arret, terra }, mor: { mor, rom } }
+{ mop: { mop, pom } }
+{ im: { im, mi } }
+{ io: { io, oi }, mot: { mot, tom } }
+{ abel: { able, elba }, dery: { drey, yerd } }
+{ eilot: { eliot, toile } }
+{ bbee: { beeb } }
+{ aallu: { alula } }
+{ aeegnss: { sagenes, senegas } }
+{ is: { is, si } }
+{ adeiln: { delian, nailed } }
+{ it: { it, ti } }
+{ aadmm: { madam } }
+{ gtu: { gut, tug } }
+{ desu: { deus, sued } }
+{ eemst: { meets, steem } }
+{ desy: { deys, syed } }
+{ eemss: { seems, smees } }
+{ sst: { sts } }
+{ ssu: { sus } }
+{ elno: { leon, noel } }
+{ dgi: { dig, gid } }
+{ ewy: { wey, yew } }
+{ dgo: { dog, god } }
+{ aeglr: { lager, regal } }
+{ eellss: { selles }, oo: { oo } }
+{ abcder: { braced, decarb } }
+{ ddeefii: { deified } }
+{ deimn: { denim, mined } }
+{ eerrtt: { terret } }
+{ deimt: { demit, timed } }
+{ ett: { tet }, oz: { oz, zo } }
+{ abgr: { brag, garb }, etw: { tew, wet }, oy: { oy, yo } }
+{ ow: { ow, wo } }
+{ mrsu: { rums, smur } }
+{ os: { os, so } }
+{ ekps: { keps, spek } }
+{ op: { op, po } }
+{ eprst: { perts, strep } }
+{ deeil: { edile, elide }, no: { no, on } }
+{ iirss: { siris } }
+{ aelss: { seals, slaes }, girt: { girt, trig } }
+{ dmoo: { doom, mood } }
+{ aamss: { assam, massa } }
+{ aallmm: { mallam }, eerrss: { serres } }
+{ aeemn: { amene, enema }, deilv: { devil, lived } }
+{ eilsv: { evils, slive } }
+{ def: { def, fed }, deils: { delis, siled } }
+{ iknt: { knit, tink } }
+{ nu: { nu, un } }
+{ aksu: { auks, skua } }
+{ del: { del, led }, ortt: { tort, trot } }
+{ egmno: { emong, gnome }, ortw: { trow, wort } }
+{ den: { den, ned } }
+{ mo: { mo, om } }
+{ cciiv: { civic }, dew: { dew, wed } }
+{ aelrs: { lares, seral }, bbi: { bib } }
+{ bbo: { bob } }
+{ aimrs: { ramis, simar }, eelnv: { leven, nevel } }
+{ bbu: { bub } }
+{ aahms: { amahs, shama }, eefrr: { refer }, eilrt: { relit, tiler } }
+{ mu: { mu, um } }
+{ ddi: { did } }
+{ adem: { edam, made } }
+{ ddo: { dod } }
+{ astw: { staw, swat, taws, wats } }
+{ eerss: { seres }, gpu: { gup, pug } }
+{ ddu: { dud }, eeemmss: { sememes } }
+{ est: { set, tes } }
+{ aeprs: { reaps, spaer } }
+{ esy: { sey, yes } }
+{ eefr: { feer, reef } }
+{ amsw: { maws, swam } }
+{ ttttuu: { tuttut } }
+{ epp: { pep } }
+{ epr: { per, rep }, knstu: { knuts, stunk } }
+{ abkr: { bark, krab } }
+{ deirrs: { derris, sirred } }
+{ lnoos: { loons, snool } }
+{ aceprs: { recaps, spacer } }
+{ amrt: { mart, tram }, bgo: { bog, gob } }
+{ bgi: { big, gib } }
+{ deostv: { devots, stoved } }
+{ abdr: { bard, drab }, deeilrv: { deliver, reviled } }
+{ izz: { ziz } }
+{ ceerst: { secret, terces } }
+{ loosst: { sloots, stools } }
+{ eekk: { keek } }
+{ eekl: { keel, leek } }
+{ eekp: { keep, peek } }
+{ msstu: { smuts, stums } }
+{ amps: { maps, spam } }
+{ imrs: { rims, smir } }
+{ eeirrvv: { reviver } }
+{ abns: { bans, snab } }
+{ deers: { redes, seder } }
+{ dos: { dos, sod }, fgi: { fig, gif }, ikkrs: { kirks, skrik } }
+{ bblu: { blub, bulb }, dor: { dor, rod } }
+{ floo: { fool, loof } }
+{ dop: { dop, pod } }
+{ knost: { knots, stonk } }
+{ dot: { dot, tod } }
+{ acein: { caine, eniac }, llppuu: { pullup } }
+{ flow: { flow, wolf } }
+{ dno: { don, nod } }
+{ irst: { rits, stir } }
+{ adgr: { darg, grad } }
+{ eeilrrv: { reliver, reviler } }
+{ beirt: { rebit, tiber } }
+{ eeir: { eire, erie } }
+{ mmoott: { motmot, tomtom } }
+{ abest: { sebat, tabes } }
+{ acers: { cares, serac }, dmo: { dom, mod } }
+{ hho: { hoh } }
+{ deimst: { demits, stimed } }
+{ addr: { dard, drad } }
+{ aadrr: { radar }, addu: { daud, duad } }
+{ hhu: { huh } }
+{ deeps: { deeps, speed } }
+{ deiprs: { redips, spider } }
+{ eettv: { tevet } }
+{ hoo: { hoo, oho, ooh } }
+{ bors: { bros, sorb } }
+{ ikps: { kips, spik } }
+{ aprst: { parts, spart, sprat, strap, tarps, traps }, hos: { hos, soh } }
+{ hop: { hop, poh } }
+{ ben: { ben, neb } }
+{ bosw: { bows, swob }, hno: { hon, noh } }
+{ bost: { bots, stob } }
+
+
