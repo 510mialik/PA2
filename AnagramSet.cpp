@@ -40,3 +40,4 @@ void AnagramSet::insert(string t)
 	}
 	value[pos-1] = t;
 }
+// can i edit
