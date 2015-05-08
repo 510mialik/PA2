@@ -7,17 +7,17 @@ using namespace std;
 AnagramSet::AnagramSet()
 {
 	key = "";
-	for(int i = 0; i < 100; i++)
+	for(int i = 0; i < 100; i++)//change 100
 	{
 		value[i] = "";
 	}
 }
-
+//hash it and search for value. return 
 string AnagramSet::getKey()
 {
 	return key;
 }
-
+//hash it and search if it has the value. 
 bool AnagramSet::hasValue()
 {
 	for(int i = 0; i < 100; i++)
@@ -29,7 +29,8 @@ bool AnagramSet::hasValue()
 	}
 	return false;
 }
-
+// hash it then search if it has a value if not add new pointer
+// if it has a value then chain it. 
 void AnagramSet::insert(string t)
 {
 	int pos;
